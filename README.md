@@ -54,7 +54,7 @@ node main.js
 ## Contributing
 Feel free to submit issues or pull requests to improve the parser.
 
-Credits
+## Credits
 Big thanks to https://ogzhanolguncu.com/blog/write-your-own-json-parser/#tokenizer for helping me understand JSON parsing concepts!
 
 ## License
